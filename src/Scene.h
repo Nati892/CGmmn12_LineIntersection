@@ -26,3 +26,4 @@
 
 //The main  func to run my beautiful scene
 void RunScene(int argc, char** argv);
+void LoadBasePoints();
